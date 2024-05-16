@@ -1,3 +1,13 @@
+# Angular-Assessment
+
+Thank you for choosing to take our Angular skills test!
+
+This test will allow us to gauge your Angular development proficiency to see if you are currently a match for our open Angular Frontend Engineer role.
+
+Please find instructions on how to complete the test [here](https://discord.gg/8X9rq3VU)
+
+------------------------------------------------------------------------------------
+
 # MyExams
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
